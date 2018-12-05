@@ -26,13 +26,12 @@ const routes = [
 { path: '/ordering-guide', component: OrderingGuide }
 
 ]},
-{ path: '*', redirect: 'https://haroldsumbrana.github.io/Harold-Pizza-Version-2' }
+{ path: '*', redirect: '/' }
 
 ]
 
 const router = new VueRouter({
-	routes,
-	mode: 'history'
+	routes
 })
 
 new Vue({
