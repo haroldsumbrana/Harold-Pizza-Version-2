@@ -19,7 +19,7 @@
 <style type="text/css">
   
     #home {
-    background: url('/pizza.jpg');
+    background: url('../../src/assets/pizza.jpg');
     height: 800px;
     padding: 10%;
   }
