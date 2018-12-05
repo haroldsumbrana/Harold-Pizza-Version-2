@@ -4,7 +4,7 @@
 
 
 
-			<router-link to="/menu"><a class="navbar-brand">HAROLD"S PIZZA
+			<router-link to="/menu"><a class="navbar-brand">HAROLD'S PIZZA
 			</a></router-link>
 			<ul class="navbar-nav">
 				
