@@ -26,7 +26,7 @@ const routes = [
 { path: '/ordering-guide', component: OrderingGuide }
 
 ]},
-{ path: '*', redirect: '/' }
+{ path: '*', redirect: 'https://haroldsumbrana.github.io/Harold-Pizza-Version-2' }
 
 ]
 
