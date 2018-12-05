@@ -5,10 +5,10 @@
         <pp-header></pp-header> 
 
       </div>
-      <div class="container-fluid">
+      
        <router-view></router-view>
 
-      </div>
+      
 
       <div class="container-fluid px-2">
         <pp-footer></pp-footer> 
