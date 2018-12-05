@@ -3,7 +3,7 @@
   "description": "A Vue.js project",
   "version": "1.0.0",
   "wst": "/dist/",
-  "homepage": " https://haroldsumbrana.github.io/Harold-Pizza-Version-2",
+
   "author": "Harold Sumbrana <harbatdays@gmail.com>",
   "license": "MIT",
   "private": true,

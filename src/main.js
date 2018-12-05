@@ -25,8 +25,7 @@ const routes = [
 { path: '/delivery', component: Delivery },
 { path: '/ordering-guide', component: OrderingGuide }
 
-]},
-{ path: '*', redirect: '/' }
+]}
 
 ]
 
