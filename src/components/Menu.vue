@@ -1,4 +1,5 @@
 <template>
+	<div class="container">
 	<div class="row">
 		<div class="col-sm-12 col-md-6">
 			<table class="table table-hover">
@@ -75,6 +76,7 @@
 		</div>
 		
 	</div>
+</div>
 </template>
 
 <script type="text/javascript">

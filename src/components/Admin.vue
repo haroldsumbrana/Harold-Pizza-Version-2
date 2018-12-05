@@ -1,5 +1,6 @@
  <template>
  	<div>
+ 		<div class="container">
  	<div class="row">
 <!--first column  -->
  		<div class="col-sm-12 col-md-6">
@@ -60,6 +61,7 @@
  		</div>
  	</div>
  </div>
+</div>
  </template>
 
  <script type="text/javascript">

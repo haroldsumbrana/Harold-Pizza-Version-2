@@ -1,4 +1,5 @@
 <template>
+	<div class="container">
 	<div class="row">
 		<form>
 		<div class="form-group">
@@ -20,6 +21,7 @@
 			<button type="button" class="btn btn-danger" @click.rpevent="signOut">Sign out</button>
 		</form>
 	</div>
+</div>
 </template>
 <script type="text/javascript">
 	import Firebase from 'firebase'

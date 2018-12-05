@@ -20,10 +20,10 @@
   
     #home {
     background: url('../../src/assets/pizza.jpg');
-    height: 800px;
-    padding: 10%;
-  }
-
+    padding: 20%;
+    width: 100% !important;
+    background-size: 100%;
+}
   h1, h2 {
     margin: 6%;
   }
