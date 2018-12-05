@@ -19,7 +19,7 @@
 <style type="text/css">
   
     #home {
-    background: url('https://raw.githubusercontent.com/haroldsumbrana/Harold-Pizza-Version-2/master/pizza.jpg');
+    background: url('../../src/assets/pizza.jpg');
     height: 800px;
     padding: 10%;
   }
